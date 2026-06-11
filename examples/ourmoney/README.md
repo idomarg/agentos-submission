@@ -43,4 +43,6 @@
 - [`LEARNINGS.md`](LEARNINGS.md) — לקחים לדוגמה.
 - [`CHANGELOG.md`](CHANGELOG.md) — לוג שינויים לדוגמה.
 
+> 📎 **הקבצים האמיתיים** (ללא שינוי, מהפרויקט החי) נמצאים ב-[`real-project-files/`](real-project-files/) — הוכחת שימוש אותנטית ב-AgentOS.
+
 </div>
