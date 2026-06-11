@@ -86,7 +86,7 @@ Linear הוא מקור האמת. במקום שהסוכן "ימציא" מה לע�
 - ✅ **Project Memory Files** — תבניות מלאות ומוכחות בפרויקטים אמיתיים.
 - ✅ **Commands** — מתועדים כ-slash commands ל-Claude Code.
 - ✅ **Linear workflow** — קונבנציה מלאה לניהול issues, branches ומיזוג.
-- ✅ **שני case studies אמיתיים** — OurMoney ו-Napolitanit Inventory (ראה [`examples/`](examples/)).
+- ✅ **שני case studies אמיתיים** — OurMoney ו-Nap Inventory (ראה [`examples/`](examples/)).
 
 ## מה עדיין planned / future
 

@@ -117,7 +117,7 @@ AgentOS לא מחליף את הסוכן ולא את הקוד — הוא **שכב
 | Project Memory Files | ✅ **Implemented as templates** — מוכחים בשימוש בפרויקטים אמיתיים. |
 | Commands (slash) | ✅ **Implemented** — מתועדים ופעילים ב-Claude Code. |
 | Linear workflow | ✅ **Used conceptually in real projects** — קונבנציה מלאה, מופעלת ידנית/חצי־אוטומטית. |
-| Case studies | ✅ שניים אמיתיים — OurMoney, Napolitanit Inventory. |
+| Case studies | ✅ שניים אמיתיים — OurMoney, Nap Inventory. |
 | Hooks | 🟡 **Examples only** — ממחישים את הרעיון; לא מחוברים ל-API אמיתי. |
 | Installer אוטומטי | ⏳ **Future** — כרגע העתקה ידנית של templates. |
 | Linear API דו־כיווני | ⏳ **Future** — סנכרון אוטומטי מלא. |

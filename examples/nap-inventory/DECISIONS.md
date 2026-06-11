@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# Decisions — Napolitanit Inventory (example)
+# Decisions — Nap Inventory (example)
 
 _החלטות תפעוליות נעולות לדוגמה. ערכים מייצגים._
 

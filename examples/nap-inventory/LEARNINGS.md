@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# Learnings — Napolitanit Inventory (example)
+# Learnings — Nap Inventory (example)
 
 _לקחים מהשטח לדוגמה. ערכים מייצגים._
 

@@ -13,7 +13,7 @@
 | Project Memory Files | ✅ **Implemented (templates)** | ששת הקבצים — תבניות מלאות, מוכחות בשימוש בפרויקטים אמיתיים. |
 | Commands (`/prime` וכו') | ✅ **Implemented** | מתועדים כ-slash commands; מופעלים ידנית ב-Claude Code. |
 | Linear workflow | ✅ **Used conceptually** | קונבנציה מלאה (Levels, נעילה תלת־שכבתית, שמות branch); מופעלת ידנית/חצי־אוטומטית. |
-| Case studies | ✅ **Real** | OurMoney + Napolitanit Inventory. |
+| Case studies | ✅ **Real** | OurMoney + Nap Inventory. |
 | Hooks | 🟡 **Examples only** | `session-start-example.js`, `stop-hook-example.js` — ממחישים את הרעיון, **לא מחוברים ל-API אמיתי**. |
 | Installer אוטומטי | ⏳ **Future** | כרגע העתקה ידנית של templates (ראה `QUICKSTART.md`). |
 | Linear API דו־כיווני | ⏳ **Future** | אין סנכרון אוטומטי מלא בין הקבצים ל-Linear. |
@@ -23,7 +23,7 @@
 
 ## מה אומר "Implemented as templates"
 
-הקבצים ב-`templates/` אינם mock-ups. זה אותו מבנה שמשמש בפועל ב-OurMoney וב-Napolitanit Inventory. "Template" כאן = **מוכן להעתקה ולשימוש**, לא "עתיד להיבנות".
+הקבצים ב-`templates/` אינם mock-ups. זה אותו מבנה שמשמש בפועל ב-OurMoney וב-Nap Inventory. "Template" כאן = **מוכן להעתקה ולשימוש**, לא "עתיד להיבנות".
 
 ## מה אומר "Used conceptually in real projects"
 
