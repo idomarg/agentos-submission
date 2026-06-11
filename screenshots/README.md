@@ -1,0 +1,29 @@
+<div dir="rtl">
+
+# Screenshots
+
+צילומי מסך להוספה ידנית לפני ההגשה. שמור כל קובץ בתיקייה הזו עם השם המוצע, וה-README הזה ישמש כמקרא.
+
+---
+
+## רשימת צילומי המסך הנדרשים
+
+| # | קובץ מוצע | מה צריך להראות |
+|---|---|---|
+| 1 | `linear-ourmoney.png` | פרויקט Linear של **OurMoney** — רשימת ה-issues, סטטוסים, ה-board. |
+| 2 | `linear-napolitanit.png` | פרויקט Linear של **Napolitanit Inventory** — issues סביב מלאי/ספקים/סגירת יום. |
+| 3 | `project-memory-files.png` | קבצי ה-memory ב-repo (Vault) — `STANDUP.md`, `DECISIONS.md`, `LEARNINGS.md`, `CHANGELOG.md` פתוחים זה לצד זה. |
+| 4 | `claude-code-folder.png` | תיקיית הפרויקט ב-Claude Code — מבנה הקבצים עם ה-Overlay מותקן. |
+| 5 | `hermes-dashboard.png` | _(אופציונלי)_ דשבורד Telegram/Hermes — אם רלוונטי להצגת שכבת הזיכרון העל־פרויקטלית. |
+
+---
+
+## הנחיות
+
+- פורמט מועדף: **PNG**, רוחב ≥ 1200px.
+- מחק מידע רגיש (כתובות, מפתחות) לפני שמירה.
+- אחרי ההוספה — אפשר להטמיע ב-`README.md` / `SUBMISSION.md` עם `![alt](screenshots/<file>.png)`.
+
+> 🟡 התיקייה כרגע ריקה מצילומים מכוון — הם מתווספים ידנית בשלב ההגשה.
+
+</div>
