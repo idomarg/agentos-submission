@@ -119,7 +119,6 @@ agentos-submission/
 ├── hooks/                 ← דוגמאות hooks
 ├── linear/                ← קונבנציות Linear
 ├── examples/              ← שני case studies אמיתיים
-├── screenshots/           ← מקום לצילומי מסך
 └── docs/                  ← ארכיטקטורה, workflow, roadmap
 ```
 
