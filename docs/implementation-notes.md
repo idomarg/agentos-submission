@@ -11,7 +11,7 @@
 | רכיב | סטטוס | פירוט |
 |---|---|---|
 | Project Memory Files | ✅ **Implemented (templates)** | ששת הקבצים — תבניות מלאות, מוכחות בשימוש בפרויקטים אמיתיים. |
-| Commands (`/prime` וכו') | ✅ **Implemented** | מתועדים כ-slash commands; מופעלים ידנית ב-Claude Code. |
+| Commands (`/prime` וכו') | ✅ **תבניות פקודות / זרימות slash commands מתועדות** | מותקנים ידנית (העתקה ל-`.claude/commands/`) ומופעלים ב-Claude Code — לא installer אוטומטי. |
 | Linear workflow | ✅ **Used conceptually** | קונבנציה מלאה (Levels, נעילה תלת־שכבתית, שמות branch); מופעלת ידנית/חצי־אוטומטית. |
 | Case studies | ✅ **Real** | OurMoney + Nap Inventory. |
 | Hooks | 🟡 **Examples only** | `session-start-example.js`, `stop-hook-example.js` — ממחישים את הרעיון, **לא מחוברים ל-API אמיתי**. |

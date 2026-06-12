@@ -115,7 +115,7 @@ AgentOS לא מחליף את הסוכן ולא את הקוד — הוא **שכב
 | רכיב | סטטוס |
 |---|---|
 | Project Memory Files | ✅ **Implemented as templates** — מוכחים בשימוש בפרויקטים אמיתיים. |
-| Commands (slash) | ✅ **Implemented** — מתועדים ופעילים ב-Claude Code. |
+| Commands (slash) | ✅ **תבניות פקודות / זרימות slash commands מתועדות ל-Claude Code** — מותקנות ידנית (העתקה ל-`.claude/commands/`), לא installer אוטומטי. |
 | Linear workflow | ✅ **Used conceptually in real projects** — קונבנציה מלאה, מופעלת ידנית/חצי־אוטומטית. |
 | Case studies | ✅ שניים אמיתיים — OurMoney, Nap Inventory. |
 | Hooks | 🟡 **Examples only** — ממחישים את הרעיון; לא מחוברים ל-API אמיתי. |
